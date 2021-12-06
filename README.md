@@ -5,16 +5,16 @@
 
 
 
-## About me :
+## About me
 
 #### Currently a student at Epitech Montpellier in the south of France, I'm looking for a work-study program in web/application development or in the field of cybersecurity. Thirsty to learn and looking for new projects, I like to acquire new skills.
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...oui
+- 🌍 I love traveling
 
-## Languages :
+## Languages
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
