@@ -25,7 +25,7 @@
 <img align="left" width="26px" alt="wordpress" src="https://cdn.worldvectorlogo.com/logos/prestashop.svg">
 <img align="left" width="26px" alt="bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
 <img align="left" alt="GitHub" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
-<img align="left" alt="Notion" width="23px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ffr%2Ficone%2Fnotion-logo%2F145025&psig=AOvVaw3wwmxkXruQ5AZgiR-EHmoO&ust=1638906284904000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiBxev3z_QCFQAAAAAdAAAAABAJ" />
+<img align="left" alt="Notion" width="23px" src="https://logovectordl.com/wp-content/uploads/2019/11/notion-labs-inc-logo-vector.png" />
 
 
 
