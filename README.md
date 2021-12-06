@@ -22,7 +22,9 @@
 <img align="left" width="35px" alt="php" src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
 
 <br>
+
 ## Stats
+
 <details>
 <summary>:zap: GitHub stats</summary>
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Cozarax&show_icons=true&langs_count=8" alt="Cozarx github stats" />
