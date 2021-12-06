@@ -9,9 +9,9 @@
 
 #### Currently a student at Epitech Montpellier in the south of France, I'm looking for a work-study program in web/application development or in the field of cybersecurity. Thirsty to learn and looking for new projects, I like to acquire new skills.
 
+
+- 🌱 I’m currently learning Java and flutter framework <img align="left" alt="Flutter" width="25px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
 - 👀 I’m interested in cryptoncurrency ₿ and astronomy 🪐
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 🌍 I love traveling
 
 ## Languages and tools
