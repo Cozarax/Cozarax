@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning Python, Javascript and the framework React <img alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-- 👀 I’m interested in cryptoncurrency ₿ and astronomy 🪐
+- 👀 I’m interested in Machine Learning, astronomy and 3D websites 🪐
 - 🌍 I love traveling
 
 ## Languages and tools
@@ -26,7 +26,6 @@
 <img align="left" width="26px" alt="wordpress" src="https://cdn.worldvectorlogo.com/logos/prestashop.svg">
 <img align="left" width="26px" alt="bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
 <img align="left" alt="GitHub" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
-<img align="left" alt="Notion" width="23px" src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" />
 
 
 
