@@ -7,10 +7,10 @@
 
 ## About me
 
-#### Alongside my company Artur.ai, where I work as a front-end React developer, I'm learning deep learning with supervised learning, creating my first neural network model from scratch. It's amazing.
+#### Alongside my company <a href="https://www.linkedin.com/in/axel-cozar-aa7226179/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> Artur.ai, where I work as a front-end React developer, I'm learning deep learning with supervised learning, creating my first neural network model from scratch. It's amazing.
 
 
-- 🌱 I’m currently learning Python, Javascript and the framework React <img alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+- 🌱 I’m currently learning Python, Javascript, three.js and the framework React <img alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 - 👀 I’m interested in Machine Learning, astronomy and 3D websites 🪐
 - 🌍 I love traveling
