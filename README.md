@@ -7,27 +7,13 @@
 
 ## About me
 
-#### Currently a student at Epitech Montpellier in the south of France, I'm looking for a work-study program in web/application development or in the field of cybersecurity. Thirsty to learn and looking for new projects, I like to acquire new skills.
+#### Alongside my company Artur.ai, where I work as a front-end React developer, I'm learning deep learning with supervised learning, creating my first neural network model from scratch. It's amazing.
 
 
 - 🌱 I’m currently learning Python, Javascript and the framework React <img alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 - 👀 I’m interested in Machine Learning, astronomy and 3D websites 🪐
 - 🌍 I love traveling
-
-## Languages and tools
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="GitHub" width="23px" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" />
-<img align="left" width="35px" alt="php" src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
-<img align="left" width="26px" alt="wordpress" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
-<img align="left" width="26px" alt="wordpress" src="https://cdn.worldvectorlogo.com/logos/prestashop.svg">
-<img align="left" width="26px" alt="bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
-<img align="left" alt="GitHub" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
-
-
 
 
 <br>
