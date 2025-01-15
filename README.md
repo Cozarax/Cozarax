@@ -3,12 +3,7 @@
 
 <a href="https://www.linkedin.com/in/axel-cozar-aa7226179/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-
-
-## About me
-
-#### 2 years experience as front-end React developer, learning deep learning, creating neural network from scratch.
-
+2 years experience as front-end React developer, learning deep learning, creating neural network from scratch.
 
 🌱 learning Python, Javascript, Three.js, React, NextJs 
 
