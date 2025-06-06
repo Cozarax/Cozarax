@@ -13,7 +13,7 @@
 
 <details>
 <summary>:zap: GitHub stats</summary>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cozarax&show_icons=true&layout=compact" alt="Axel Cozar's github stats" /> 
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cozarax&show_icons=true&layout=compact" alt="Cozarax's github stats" /> 
 </details>
 <!---
 Cozarax/Cozarax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
