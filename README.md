@@ -11,14 +11,12 @@
 
 ## Stats
 
-## Langages les plus utilisés
-![Top Langs](https://readme-stats-cozarax.vercel.app/api/top-langs/?username=Cozarax&layout=compact&langs_count=6&&bg_color=00000000)
+### 🌍 Langages les plus utilisés
+![Top Langs](https://readme-stats-cozarax.vercel.app/api/top-langs/?username=Cozarax&layout=compact&langs_count=6&hide=html,css)
 
+### ⚡ GitHub stats
+![Cozarax's GitHub stats](https://readme-stats-cozarax.vercel.app/api?username=Cozarax&show_icons=true&theme=tokyonight)
 
-<details>
-<summary>:zap: GitHub stats</summary>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cozarax&show_icons=true&layout=compact" alt="Cozarax's github stats" /> 
-</details>
 <!---
 Cozarax/Cozarax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
