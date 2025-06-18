@@ -9,13 +9,6 @@
 
 <br>
 
-## Stats
-
-### 🌍 Langages les plus utilisés
-![Top Langs](https://readme-stats-cozarax.vercel.app/api/top-langs/?username=Cozarax&layout=compact&langs_count=6&hide=html,css)
-
-### ⚡ GitHub stats
-![Cozarax's GitHub stats](https://readme-stats-cozarax.vercel.app/api?username=Cozarax&show_icons=true&theme=tokyonight)
 
 <!---
 Cozarax/Cozarax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
