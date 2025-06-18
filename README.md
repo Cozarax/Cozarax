@@ -11,6 +11,10 @@
 
 ## Stats
 
+## Langages les plus utilisés
+![Top Langs](https://readme-stats-cozarax.vercel.app/api/top-langs/?username=Cozarax&layout=compact&langs_count=6&&bg_color=00000000)
+
+
 <details>
 <summary>:zap: GitHub stats</summary>
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cozarax&show_icons=true&layout=compact" alt="Cozarax's github stats" /> 
