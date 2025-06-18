@@ -15,6 +15,7 @@
 <summary>:zap: GitHub stats</summary>
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cozarax&show_icons=true&layout=compact" alt="Cozarax's github stats" /> 
 </details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cozararx)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Cozarax/Cozarax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
